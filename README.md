@@ -8,7 +8,7 @@ My interests include music theory, photography and functional programming!
 - Back end: **Node.js, Express.js, REST, GraphQL, MongoDB, PostgreSQL**
 - Deployment: **Docker, Babel, AWS, EB, EC2**
 - Familiar with: **Go, Elixir, Python, Kubernetes**
-- Curious about: **Elm, Clojure, Rescript**
+- Curious about: **Threejs, Elm, Clojure, Rescript**
 
 ---
 
