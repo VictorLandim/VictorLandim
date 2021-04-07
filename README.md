@@ -11,6 +11,6 @@ I'm Victor Landim. I'm a full stack developer focused on React, Node, Typescript
 
 ---
 
-📪Email: [hi@victorlandim.com](mailto:hi@victorlandim.com)
-💻Portfolio: [victorlandim.com](https://victorlandim.com)
-📸 Photography portfolio: [victor.photos](https://victor.photos)
+📪Email: [hi@victorlandim.com](mailto:hi@victorlandim.com)\
+💻Portfolio: [victorlandim.com](https://victorlandim.com)\
+📸 Photography portfolio: [victor.photos](https://victor.photos)\
