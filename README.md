@@ -1,6 +1,7 @@
 ### Hi there 👀
 
-I'm Victor Landim. I'm a full stack developer focused on React, Node, Typescript and everything in between! My interests include music theory, photography and functional programming!
+I'm Victor Landim. I'm a full stack developer focused on React, Node, Typescript and everything in between!\
+My interests include music theory, photography and functional programming!
 
 ### Skills ⌨
 - Front end: **HTML5, CSS3, Sass, SEO, Typescript, Javascript, ES6, React, Redux, Next.js, Gatsby, Storybook, Jest, Cypress**
