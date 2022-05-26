@@ -1,4 +1,4 @@
-### Hi there 👀
+### Hey there 👋
 
 I'm Victor Landim. I'm a front-end engineer focused on React, Node, Typescript and everything in between!\
 My interests include music theory, photography and functional programming!
