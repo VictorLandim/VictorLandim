@@ -4,7 +4,7 @@ I'm Victor Landim. I'm a front-end engineer focused on React, Node, Typescript a
 My interests include music theory, photography and functional programming.
 
 ### Skills ⌨
-- Front-end: **HTML5, CSS3, Sass, SEO, Typescript, Javascript, ES6, React, Redux, Next.js, Gatsby, Storybook, Jest, Cypress**
+- Front-end: **HTML5, CSS3, Sass, SEO, Typescript, Javascript, ES6, React, Redux, Next.js, Storybook, Jest, Cypress**
 - Back-end: **Node.js, Express.js, REST, GraphQL, MongoDB, PostgreSQL**
 - Deployment: **Docker, Babel, AWS, EB, EC2**
 - Familiar with: **Go, Elixir, Python, Kubernetes**
@@ -14,7 +14,7 @@ My interests include music theory, photography and functional programming.
 
 📪Email: [hi@victorlandim.com](mailto:hi@victorlandim.com)\
 💻Portfolio: [victorlandim.com](https://victorlandim.com)\
-📄 Resume: [victorlandim.com/resume](https://victorlandim.com/resume)\
+📄 Resume: [victorlandim.com/cv](https://victorlandim.com/cv)\
 😺 Github: [github.com/VictorLandim](https://github.com/VictorLandim)\
 💼 Linkedin: [linkedin.com/in/victor-landim](https://linkedin.com/in/victor-landim/?locale=en_US)\
 📸 Photography portfolio: [victor.photos](https://victor.photos)
