@@ -14,7 +14,7 @@ My interests include music theory, photography and functional programming.
 
 📪Email: [hi@victorlandim.com](mailto:hi@victorlandim.com)\
 💻Portfolio: [victorlandim.com](https://victorlandim.com)\
-📄 Resume: [victorlandim.com/cv](https://victorlandim.com/cv)\
+📄 CV: [victorlandim.com/cv.pdf](https://victorlandim.com/cv.pdf)\
 😺 Github: [github.com/VictorLandim](https://github.com/VictorLandim)\
 💼 Linkedin: [linkedin.com/in/victor-landim](https://linkedin.com/in/victor-landim/?locale=en_US)\
 📸 Photography portfolio: [victor.photos](https://victor.photos)
